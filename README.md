@@ -1,0 +1,2 @@
+# VisorComic
+Visor de comic
